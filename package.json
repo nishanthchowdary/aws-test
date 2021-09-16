@@ -34,4 +34,5 @@
     "bcrypt-nodejs": "*",
     "json-socket": "*"
   }
+  "sonar": "ts-node sonar-scanner.ts"
 }
